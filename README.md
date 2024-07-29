@@ -77,3 +77,5 @@ capabilities on every new pass. This strategic interleaver
 placement then necessitates the deployment of the 
 intricate interleaver architecture between the parallel 
 concatenated encoders as well.
+
+https://drive.google.com/folderview?id=1CO-iopa-IDHqI4W7HFa4rRHmsc3T1o4G
