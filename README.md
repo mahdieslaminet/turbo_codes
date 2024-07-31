@@ -79,43 +79,61 @@ intricate interleaver architecture between the parallel
 concatenated encoders as well.
 
 References
+
 [1] C. Berrou, A. Glavieux, P. Thitimajshima, Near Shannon limit error-correcting coding and 
 decoding: Turbo-codes.1, in: Proceedings of ICC'93 - IEEE International
 Conference on Communications, IEEE, 1993, pp. 1064–1070.
+
 [2] D. Divsalar, F. Pollara, Turbo codes for PCS applications, in: Proceedings IEEE International 
 Conference on Communications ICC '95, IEEE, 1995, pp. 54–59.
+
 [3] P. Jung, M. Nasshan, Performance evaluation of turbo codes for short frame transmission 
 systems, Electronics Letters 30 (2) (1994) 111–113.
+
 [4] P. Jung, M. Nasshan, Dependence of the error performance of turbo codes on the 
 interleaver structure in short frame transmission systems, Electronics Letters 30
 (4) (1994) 287–288.
+
 [5] S. Benedetto, G. Montorsi, Average performance of parallel concatenated block codes, 
 Electronics Letters 31 (3) (1995) 156–158.
+
 [6] S. Benedetto, G. Montorsi, Performance evaluation of turbo-codes, Electronics Letters 31 (3) 
 (1995) 163–165.
+
 [7] S. Benedetto, G. Montorsi, Unveiling turbo codes: Some results on parallel concatenated 
 coding schemes, IEEE Transactions on Information Theory 42 (2) (1996)
 409–428.
+
 [8] J. Hagenauer, E. Offer, L. Papke, Iterative decoding of binary block and convolutional codes, 
 IEEE Transactions on Information Theory 42 (2) (1996) 429–445.
+
 [9] C. Berrou, A. Glavieux, Near optimum error correcting coding and decoding: Turbo codes, 
 IEEE Transactions on Information Theory 44 (10) (1996) 1261–1271.
+
 [10] IEEE Information Theory Society Newsletter, A conversation with G. David Forney, Jr. 47 (2) 
 (1997).
+
 [11] S.J. Johnson, Iterative Error Correction, New York: Cambridge University Press, 2012.
+
 [12] X.-G. Xia, On modulated coding and least square decoding via coded modulation and 
 Viterbi decoding, technical report #97-6-2, Department of Electrical and
 Computer Engineering, University of Delaware, 1997.
+
 [13] X.-G. Xia, Modulated Coding for intersymbol interference channels, New York: Marcel 
 Dekker, 2000.
+
 1. Hagenauer, J. (1997). The turbo principle: Tutorial introduction and state of the art. In Proc. 
 International Symposium on Turbo Codes (pp. 1-11).
+
 2. Richardson, T. J., & Urbanke, R. L. (2001). The renaissance of Gallager's low-density parity-
 check codes. IEEE Communications Magazine, 39(8), 126-131.
+
 3. Ten Brink, S. (2001). Convergence behavior of iteratively decoded parallel concatenated 
 codes. IEEE Transactions on Communications, 49(10), 1727-1737.
+
 4. El-Khamy, S. E. (2005). Signal processing perspective of turbo codes. IEE Proceedings-
 Communications, 152(4), 423-429.
+
 5. Tüchler, M., Koetter, R., & Singer, A. C. (2002). Turbo equalization: Principles and new results. 
 IEEE Transactions on Communications, 50(5), 754-767.
 https://drive.google.com/folderview?id=1CO-iopa-IDHqI4W7HFa4rRHmsc3T1o4G
