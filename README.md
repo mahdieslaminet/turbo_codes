@@ -137,3 +137,5 @@ Communications, 152(4), 423-429.
 5. Tüchler, M., Koetter, R., & Singer, A. C. (2002). Turbo equalization: Principles and new results. 
 IEEE Transactions on Communications, 50(5), 754-767.
 https://drive.google.com/folderview?id=1CO-iopa-IDHqI4W7HFa4rRHmsc3T1o4G
+
+dane202122@gmail.com
